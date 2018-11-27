@@ -19,13 +19,13 @@ The file in the Dataset is protein localisations sites for yeast. The data conta
 10. Localisation Site (see below)
 
 The names and distribution of classes, i.e. localisation sites (column 10), are detailed below:
- CYT (cytosolic or cytoskeletal) 463 
- NUC (nuclear) 429 
- MIT (mitochondrial) 244 
- ME3 (membrane protein, no N-terminal signal) 163 
- ME2 (membrane protein, uncleaved signal) 51 
- ME1 (membrane protein, cleaved signal) 44 
- EXC (extracellular) 37 
- VAC (vacuolar) 30 
- POX (peroxisomal) 20 
- ERL (endoplasmic reticulum lumen) 5
+ * CYT (cytosolic or cytoskeletal) 463 
+ * NUC (nuclear) 429 
+ * MIT (mitochondrial) 244 
+ * ME3 (membrane protein, no N-terminal signal) 163 
+ * ME2 (membrane protein, uncleaved signal) 51 
+ * ME1 (membrane protein, cleaved signal) 44 
+ * EXC (extracellular) 37 
+ * VAC (vacuolar) 30 
+ * POX (peroxisomal) 20 
+ * ERL (endoplasmic reticulum lumen) 5
