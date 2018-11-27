@@ -1,0 +1,80 @@
+---
+title: "Prediction of Protein localisation sites"
+author: "ZhangChi Qiu"
+date: "29/05/2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+#Task 1 Data Mining
+Build a model to predict protein localisation site
+
+## a)
+use a 70-30 split to create traning and test data
+```{r}
+#use a seed of 1234
+
+set.seed(1234)
+yeast <-read.table("yeast.data")
+ind <- sample(2, nrow(yeast), replace = TRUE, prob=c(0.7, 0.3))
+train_data <- yeast[ind == 1,]
+test_data <- yeast[ind == 2,]
+```
+## b)
+use training data to train a model.
+```{r}
+
+library(party)
+formula <- V10 ~ V2 + V3 + V4 + V5 + V6 + V7 + V8 + V9
+yeast_ctree <-ctree(formula, data = train_data)
+```
+## c)
+use model to predict previoulsy unseen data using the test data
+```{r}
+predict <-table(predict(yeast_ctree, newdata = test_data), test_data$V10)
+predict
+```
+
+## d)
+Produce a confustion matrix 
+```{r}
+
+
+library(caret)
+
+confusionMatrix(predict(yeast_ctree, newdata = test_data), test_data$V10)
+
+
+
+```
+
+#Task 2
+Visualization of classification and results
+
+## a)
+```{r,fig.width = 30 , fig.height = 25}
+plot(yeast_ctree)
+```
+
+## b)
+```{r}
+library(ggplot2)
+#normalize predictions between 0 and 1
+normalized <- (predict-min(predict))/(max(predict)-min(predict))
+normalzied_data<-data.frame(normalized)
+
+#use ggplot to prodcue the heatmap visualziation
+ggplot(normalzied_data, aes(Var1,Var2 )) +
+  geom_tile(aes(fill = Freq), color = "yellow") +
+  scale_fill_gradient(low = "white", high = "red") +
+ 
+  
+  theme(legend.title = element_text(size = 10),
+        legend.text = element_text(size = 10),
+  
+        axis.title=element_text(size=10,face="bold"),
+        axis.text.x = element_text(angle = 0, hjust = 1)) +
+  labs(fill = "Frequency")
+
+```
