@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project was done as a part of my coursework for Data Manipulation unit. The propose of this project is to train a model to predict localisation site for yeast. Also,it requires to visualize the classification and results.
+This project was done as a part of my coursework for Data Manipulation unit. The propose of this project is using supervised machine learning technique to train a model to predict localisation site for yeast. Also,it requires to visualize the classification and results.
 
 # Data
 
