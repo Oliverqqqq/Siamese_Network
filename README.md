@@ -35,10 +35,10 @@ Figure below indicates model loss on training data and validation data. As can b
 ![Image of acc](pic/loss.png)
 
 Model accuracy on training set and validation
-|Group          |   Accuracy
----|:---|
-|Training set   |   99.96%
-Testing set [2,3,4,5,6,7]	98.15%
-Testing set [0,1,8,9]	70.19%
-Testing set [0,1,8,9] union [2,3,4,5,6,7]	83.67%
 
+| Group         | Accuracy          |
+| ------------- |:-------------:| 
+| Training set  | 99.96%        |
+| Testing set [2,3,4,5,6,7]    | 98.15%     |
+| Testing set [0,1,8,9] | 70.19%     |
+| Testing set [0,1,8,9] union [2,3,4,5,6,7]  | 83.67%       |
