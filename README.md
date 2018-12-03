@@ -29,3 +29,15 @@ keras.datasets.mnist.load_data()
 Figure below indicates the model accuracy on training data and validation data. As can be seen from the figure, the model accuracy on training set increases significantly in the first few epochs, after around 15 epochs, model accuracy increases slightly and reaching 99.993%. The model accuracy on the validation set increased significantly in the first few epochs, after that it starts floating and did not improve much. After 100 epochs, the accuracy on the validation set is 0.9816%. Therefor checkpoint function here will save the model with the best accuracy on the validation set and drop the later model trained with 100 epochs.
 
 ![Image of acc](pic/acc.png)
+
+Figure below indicates model loss on training data and validation data. As can be seen from the figure, the model loss on training set decreases significantly in first 20 epochs, after that model loss decreases slightly and reach 0.0136. The model loss on validation set decreases significantly in the first 20 epochs. After that, it starts floating and ends with 0.0306 after 100 epochs
+
+![Image of acc](pic/loss.png)
+
+Model accuracy on training set and validation
+	Accuracy 
+Training set	99.96%
+Testing set [2,3,4,5,6,7]	98.15%
+Testing set [0,1,8,9]	70.19%
+Testing set [0,1,8,9] union [2,3,4,5,6,7]	83.67%
+
