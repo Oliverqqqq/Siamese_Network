@@ -85,7 +85,7 @@ def shared_network(input_shape):
     layer = Dense(128, activation='relu')(layer)
     return Model(input, layer)
 
-#adopt from week 7  too slow???
+
 #def shared_network(input_shape):
 #    input = Input(shape = input_shape)
    
