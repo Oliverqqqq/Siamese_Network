@@ -1,0 +1,148 @@
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe.config
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csprojResolveAssemblyReference.cache
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.Properties.Resources.resources
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.GenerateResource.Cache
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.CoreCompileInputs.cache
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.exe
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.helpForm.resources
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.welcome_page.resources
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.indexForm1.resources
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.searchingForm.resources
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/ICSharpCode.SharpZipLib.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Syn.WordNet.dll
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.xml
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.pdb
+D:/study/647/IFN647_PROJECT/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe.config
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/ICSharpCode.SharpZipLib.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Syn.WordNet.dll
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.pdb
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.xml
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csprojAssemblyReference.cache
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.exe.config
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.indexForm1.resources
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.helpForm.resources
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.Properties.Resources.resources
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.searchingForm.resources
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.welcome_page.resources
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.GenerateResource.cache
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.CoreCompileInputs.cache
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.CopyComplete
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.exe
+/Users/oliver/Documents/IT/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe.config
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.exe
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/IFN647_PROJECT.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/ICSharpCode.SharpZipLib.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Syn.WordNet.dll
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Analyzers.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Core.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.FastVectorHighlighter.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Highlighter.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Memory.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Queries.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Regex.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SimpleFacetedSearch.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.Snowball.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.pdb
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/bin/Debug/Lucene.Net.Contrib.SpellChecker.xml
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csprojAssemblyReference.cache
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.exe.config
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.indexForm1.resources
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.helpForm.resources
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.Properties.Resources.resources
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.searchingForm.resources
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.welcome_page.resources
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.GenerateResource.cache
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.CoreCompileInputs.cache
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.csproj.CopyComplete
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.exe
+/Users/oliver/OneDrive/文档/Master of IT/IFN 647 Information Storage/C#/assignment/IFN647_PROJECT 2/IFN647_PROJECT/obj/Debug/IFN647_PROJECT.pdb
