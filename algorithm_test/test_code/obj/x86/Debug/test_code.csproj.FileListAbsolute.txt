@@ -1,0 +1,6 @@
+/Users/oliver/OneDrive/C#/test_code/test_code/bin/Debug/test_code.exe
+/Users/oliver/OneDrive/C#/test_code/test_code/bin/Debug/test_code.pdb
+/Users/oliver/OneDrive/C#/test_code/test_code/obj/x86/Debug/test_code.csprojResolveAssemblyReference.cache
+/Users/oliver/OneDrive/C#/test_code/test_code/obj/x86/Debug/test_code.csproj.CoreCompileInputs.cache
+/Users/oliver/OneDrive/C#/test_code/test_code/obj/x86/Debug/test_code.exe
+/Users/oliver/OneDrive/C#/test_code/test_code/obj/x86/Debug/test_code.pdb
