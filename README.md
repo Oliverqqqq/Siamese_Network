@@ -1,4 +1,4 @@
-# uni_learning
+# School Project
 
 
 This repository contains various assignments that I did during my coursework. 
