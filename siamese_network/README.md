@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f12cd29308a1510d778d1a37c6f04bdc100e1c3e
 # Siamese_Network
 
 ## Introduction
@@ -46,7 +42,3 @@ Model accuracy on training set and validation
 | Testing set [2,3,4,5,6,7]    | 98.15%     |
 | Testing set [0,1,8,9] | 70.19%     |
 | Testing set [0,1,8,9] union [2,3,4,5,6,7]  | 83.67%       |
-<<<<<<< HEAD
-=======
-
->>>>>>> f12cd29308a1510d778d1a37c6f04bdc100e1c3e
